@@ -1,8 +1,8 @@
 {
   "name": "lbacik/value-objects",
-  "description": "description",
+  "description": "Simple Value Object implementation",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "LGPL-2.0-or-later",
   "authors": [
     {
       "name": "Łukasz Bacik",
