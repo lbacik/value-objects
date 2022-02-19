@@ -9,6 +9,7 @@ use LBacik\ValueObject\Exception\InvariantException;
 use LBacik\ValueObject\Invariant;
 use PHPUnit\Framework\ExpectationFailedException;
 use PHPUnit\Framework\TestCase;
+
 use function PHPUnit\Framework\assertGreaterThan;
 use function PHPUnit\Framework\assertGreaterThanOrEqual;
 use function PHPUnit\Framework\assertNotEmpty;

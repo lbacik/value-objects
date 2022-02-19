@@ -10,6 +10,7 @@ use LBacik\ValueObject\Invariant;
 use PHPUnit\Framework\ExpectationFailedException;
 use PHPUnit\Framework\TestCase;
 use TypeError;
+
 use function PHPUnit\Framework\assertGreaterThan;
 
 class ValueObjectPrivateTest extends TestCase
@@ -71,4 +72,3 @@ class ValueObjectPrivateTest extends TestCase
         $this->valueObject->set(value: 0);
     }
 }
-
